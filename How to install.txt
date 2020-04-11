@@ -1,0 +1,20 @@
+###### INSTALLATION GUIDE
+
+Copy VEMFr_client folder to the root of your missiom pbo  (altis.pbo or whatever map you use.)
+
+Add the content of the init.sqf to init.sqf in your mission pbo.
+
+Add the content of the description.ext to description.ext in your mission pbo.
+
+Copy a3_vemf_reloaded.pbo to  @ExileServer\addons\ OR @epochhive\addons\
+
+Copy a3_vemf_reloaded_config.pbo to @ExileServer\addons\ OR @epochhive\addons\
+
+
+To configure vemf open config.cpp in a3_vemf_reloaded.pbo
+
+
+
+###### CONFIGURATION GUIDE
+For the sake of comfort, VEMFr uses a separate .pbo to store -and use- settings.
+All default settings are stored inside a3_vemf_reloaded.pbo by default. If you want to change a certain setting, then use a3_vemf_reloaded_config\config.cpp for that. It will save you a lot of time. You are welcome.
