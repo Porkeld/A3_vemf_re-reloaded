@@ -9,7 +9,7 @@ So I decided to add and fix some of the stuff for vemf.
 Check the Changelog for fixes and new stuff.
 
 **IMPORTANT !!!  If you alreaduy have vemf installed it´s important to overwrite your existing files with the vemf_re_reloaded.
-			   Then reconfigure the config.cpp to your need.
+			   Then reconfigure the config.cpp to your need.**
 
 
 If you have any questions/bug reports or ideas for vemf_re_reloaded then find me on discord Porkeld#1506 
