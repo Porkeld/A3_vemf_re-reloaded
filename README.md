@@ -1,5 +1,5 @@
 
-A3_vemf_re_reloaded
+# A3_vemf_re_reloaded
 
 Vemf_reloaded was originally made by IT07 and last commit on vemf_reloaded was in 2017.
 I really like this mission script, but in my opinion it was missing some essential features compared to other mission systems.
@@ -8,7 +8,7 @@ So I decided to add and fix some of the stuff for vemf.
 
 Check the Changelog for fixes and new stuff.
 
-IMPORTANT !!!  If you alreaduy have vemf installed it´s important to overwrite your existing files with the vemf_re_reloaded.
+IMPORTANT !!!  If you alreaduy have vemf installed itÂ´s important to overwrite your existing files with the vemf_re_reloaded.
 			   Then reconfigure the config.cpp to your need.
 
 
@@ -23,9 +23,9 @@ All credit goes to IT07 for coding this and also a big THANK YOU to Ghostrider [
 
 
 
-# a3_vemf_reloaded a.k.a. VEMFr
-#### a complex mission system for ArmA3 Exile/Epoch Mod
-###### ABOUT
+a3_vemf_reloaded a.k.a. VEMFr
+a complex mission system for ArmA3 Exile/Epoch Mod
+ABOUT
 VEMFr stands for "VEMF Reloaded". VEMF stands for "Vampire's Epoch Mission Framework".
 VEMFr started as VEMF, under my ( IT07 ) continued development.
 Initially, VEMF was obviously developed by TheVampire until he discontinued the project.
