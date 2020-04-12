@@ -1,4 +1,16 @@
-#A3_vemf_re-reloaded    version 0.666
+
+v0.667
+
+Fixed :   	Error in rpt.  removeAllEventHandlers 'MPKilled' } >
+
+Fixed : 	bugs regarding tws blacklist
+
+Fixed : 	Baseattack ai can also spawn mortars.
+
+Fixed :		Typo in config.
+
+
+version 0.666
 
 
 Fixed :    	Apex classes was not working. Added new check for apex and added "ApexEnabled =" in settings.
