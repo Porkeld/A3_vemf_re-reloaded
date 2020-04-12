@@ -9,6 +9,8 @@ Fixed : 	Baseattack ai can also spawn mortars.
 
 Fixed :		Typo in config.
 
+Fixed : 	Issue with static ca50 when running epoch.
+
 
 version 0.666
 
