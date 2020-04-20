@@ -1,6 +1,11 @@
+v0.669
+
+Added : 	enable/disable mines for all factions.  
+
+
 v0.668		
 
-Fixed:		FaceWear was not being loaded.
+Fixed :		FaceWear was not being loaded.
 
 Added :		"missionrange" to config // how many meters away from player before mission will initialize.
 
@@ -57,7 +62,7 @@ Added :		Class for AI loadout percentage in cfg :
 							ai_nighttime_NVGoggles_chance = 0;	// Percentage chance that AI will have a NVGoggles spawned during nighttime
 
 
-Added :		inventory loadout array for AI. Vemf AI´s had no loot in their inventory.
+Added :		inventory loadout array for AI. Vemf AIÂ´s had no loot in their inventory.
 
 							Items[] = { "Exile_Item_DuctTape", "Exile_Item_CanOpener", "Exile_Item_MobilePhone", "Exile_Item_Knife" }; 
 
