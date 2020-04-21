@@ -1,6 +1,6 @@
 v0.669
 
-Added : 	enable/disable mines for all factions.  
+Added : 	enable/disable mines for each factions.  
 
 
 
